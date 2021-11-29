@@ -1,6 +1,6 @@
 # GoodMigrations
 
-**TODO: Add description**
+Inspired by [Strong Migrations](https://github.com/ankane/strong_migrations). Best sung to the tune of [The Beach Boys](https://www.youtube.com/watch?v=Eab_beh07HU).
 
 ## Installation
 
